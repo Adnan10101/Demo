@@ -6,3 +6,6 @@ Just adding some subheader right here.
 
 ## Sub Title
 Adding some sub title text.
+
+## Using branch 
+Adding a branch and merging
