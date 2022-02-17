@@ -9,3 +9,7 @@ Adding some sub title text.
 
 ## Using branch 
 Adding a branch and merging
+
+
+## Another branch
+Another branch to be deleted later
